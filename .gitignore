@@ -1,3 +1,5 @@
 # Python
 venv*
 .ipynb_checkpoints/
+tmp*
+.pytest_cache/

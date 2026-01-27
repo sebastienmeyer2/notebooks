@@ -1,9 +1,7 @@
 # WIP
 
-2. [Installation](#installation-instructions)
-3. [Description](#package-description)
-4. [Usage via command lines](#package-usage)
-5. [Documentation](#documentation)
+1. [Installation](#installation-instructions)
+2. [Usage](#usage)
 
 ## Installation instructions
 
@@ -39,3 +37,15 @@ Finally, install all the requirements:
 pip install -r requirements.txt  # Linux
 pip install -r .\requirements.txt  # Windows
 ```
+
+## Usage
+
+All code is directly available in the notebook. Once you have followed the installations instructions you can start a jupyter server:
+
+```bash
+jupyter notebook
+```
+
+Select a notebook and check that are using the kernel you created during installation.
+
+In order to use the notebooks, you can refer to any existing [cheatsheet](https://mljar.com/blog/jupyter-notebook-shortcuts-cheatsheet/) out there.
