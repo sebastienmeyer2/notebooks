@@ -3,3 +3,5 @@ venv*
 .ipynb_checkpoints/
 tmp*
 .pytest_cache/
+.env 
+2_Detection_Operations_env/solutions.ipynb
