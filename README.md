@@ -1,4 +1,6 @@
-# WIP
+# Notebooks
+
+This package contains exercises based on two projects led by the French Ministry of Ecology / Directorate general for risk prevention, namely [Arrêtify](https://github.com/mte-dgpr/arretify) and [Ocapi](https://github.com/mte-dgpr/ocapi).
 
 1. [Installation](#installation-instructions)
 2. [Usage](#usage)
