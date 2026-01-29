@@ -4,4 +4,4 @@ venv*
 tmp*
 .pytest_cache/
 .env 
-2_Detection_Operations_env/solutions.ipynb
+2_Detection_Operations/solutions.ipynb
